@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio website 
-👯 I’m looking to collaborate on Gen AI-based repositories  
-🤝 I’m looking for help with optimizing AI-driven web applications and scalable API architectures  
-🌱 I’m currently learning Phidata and exploring better ways to fine-tune open-source LLMs  
-💬 Ask me about full-stack web development, AI-powered applications, and DSA problem-solving strategies  
-⚡ Fun fact: 90% of coding is debugging. The other 10% is writing bugs. 🐛
+🔭 I’m currently working on my portfolio website <br>
+👯 I’m looking to collaborate on Gen AI-based repositories  <br>
+🤝 I’m looking for help with optimizing AI-driven web applications and scalable API architectures  <br>
+🌱 I’m currently learning Phidata and exploring better ways to fine-tune open-source LLMs  <br>
+💬 Ask me about full-stack web development, AI-powered applications, and DSA problem-solving strategies  <br>
+⚡ Fun fact: 90% of coding is debugging. The other 10% is writing bugs. 🐛 <br>
 
 
 ## 🌐 Socials:
